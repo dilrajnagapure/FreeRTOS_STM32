@@ -1,0 +1,9 @@
+2025-03-16 14:51:49,376 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2025-03-16 14:58:38,795 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2025-03-16 14:58:41,256 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2025-03-16 14:58:42,464 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2025-03-16 14:58:44,435 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2025-03-16 15:08:17,815 [INFO] WebApp:194 - Connection lost
+2025-03-16 15:08:18,277 [INFO] WebApp:191 - Connection restablished
+2025-03-16 19:17:15,664 [INFO] WebApp:194 - Connection lost
+2025-03-16 19:17:16,022 [INFO] WebApp:191 - Connection restablished
